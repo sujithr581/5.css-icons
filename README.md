@@ -1,2 +1,2 @@
-# css-icons-
+# css-icons
 using icons,animation,transistion
